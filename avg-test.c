@@ -3,8 +3,8 @@
 
 int avg( int x, int y )
 {
-  int sum = x + x;
-  return sum / 2;
+   int sum = x + y;
+   return sum / 2;
 }
 
 int main()
